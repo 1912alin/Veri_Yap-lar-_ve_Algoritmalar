@@ -1,3 +1,6 @@
+<a href="https://app.patika.dev/nisacerenunnu">
+    <img alt="patika" title="Patika" src="https://custom-icon-badges.demolab.com/badge/Patika.dev  |  nisacerenunnu-FF6600.svg?logo=patika_beyaz&logo_Color=white&style=for-the-badge&labelColor=FF6600"/>
+
 ## [22,27,16,2,18,6] -> Insertion Sort verilen dizinin sort türüne göre aşamalarını yazınız. 
 
 1. En küçük sayıyı alıp baştaki sayı ile yerlerini değiştir. [ 22 , 27 , 16 , 2 , 18 , 6 ] > [ 2 , 27 , 16 , 22 , 18 , 6 ]
